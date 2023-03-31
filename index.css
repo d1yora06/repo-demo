@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+.ocean{
+    position: absolute;
+width: 870px;
+height: 400px;
+left: 374px;
+top: 256px;
+text-align: center;
+}
+
+.aksiya{
+    font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+background: #1C62CD;
+margin-left: 100px;
+border: none;
+margin-right: 150px;
+}
+
+.korinmas{
+    font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #C4C4C4;
+}
+
+.money{
+    font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 32px;
+color: #1C62CD;
+margin-left: 300px;
+margin-top: 50px;
+}
+
+.kaska{
+    width: 125px;
+height: 176.69px;
+left: 1341px;
+top: 324px;
+margin-left: 100px;
+}
+
+.logo{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #2F3035;
+    
+}
+
+.deystviya{
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #2F3035;
+}
+
+.sana{
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #1C62CD;
+}
+
+.btn_textdiv{
+    display: flex;
+}
+.btn_textdivv{
+    background: #F0F0F4
+}
+.orta{
+ 
+border: 1px solid #CDCDCD;
+border-radius: 3px; 
+}
